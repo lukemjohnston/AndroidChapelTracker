@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Chapel Tracker</string>
+    <string name="title_activity_login">Chapel Tracker</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="login_display">Please log in with Biola ID and Password:</string>
+    <string name="login_submit">SUBMIT</string>
+    <string name="home_date">Monday 10/26</string>
+    <string name="title_activity_setting">activity_setting</string>
+    <string name="title_activity_description">activity_description</string>
+    <string name="title_activity_description_b">activity_description_b</string>
+    <string name="title_detailed_calendar">detailed_calendar</string>
+
+    <!-- Chapels Completed Pages Strings -->
+    <string name="title_chapels_completed">chapels_completed</string>
+    <string name="date_header"><u>Date</u></string>
+    <string name="name_header"><u>Name</u></string>
+    <string name="time_header"><u>Time</u></string>
+    <string name="location_header"><u>Location</u></string>
+    <string name="credit_header"><u>Credit</u></string>
+    <string name="total_text">Total:</string>
+    <string name="num_completed_text">10</string>
+    
+    <string-array name="dates">
+        <item>8/25</item>
+        <item>8/30</item>
+        <item>8/31</item>
+        <item>9/4</item>
+        <item>9/10</item>
+        <item>9/15</item>
+        <item>9/20</item>
+        <item>10/1</item>
+        <item>10/21</item>
+        <item>10/22</item>
+    </string-array>
+    
+    <string-array name="names">
+        <item>Singspiration</item>
+        <item>Fives</item>
+        <item>Midday Session</item>
+        <item>Morning Session</item>
+        <item>Fives</item>
+        <item>Singspiration</item>
+        <item>Morning Session</item>
+        <item>Fives</item>
+        <item>Morning Session</item>
+        <item>Singspiration</item>
+    </string-array>
+    
+    <integer-array name="credits">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="titles">
+        <item>Fives</item>
+        <item>Afternoon Chapel</item>
+        <item>Night Chapel</item>
+        <item>Fives</item>
+        <item>Afternoon Chapel</item>
+        <item>Night Chapel</item>
+        <item>Fives</item>
+        <item>Afternoon Chapel</item>
+        <item>Night Chapel</item>
+        <item>Afternoon Chapel</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>12:00pm</item>
+        <item>3:00pm</item>
+        <item>8:30pm</item>
+        <item>12:00pm</item>
+        <item>3:00pm</item>
+        <item>8:30pm</item>
+        <item>12:00pm</item>
+        <item>3:00pm</item>
+        <item>8:30pm</item>
+        <item>3:00pm</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>Online</item>
+    </string-array>
+
+    <string-array name="dates2">
+        <item>12/1</item>
+        <item>12/1</item>
+        <item>12/1</item>
+        <item>12/2</item>
+        <item>12/2</item>
+        <item>12/2</item>
+        <item>12/3</item>
+        <item>12/3</item>
+        <item>12/3</item>
+        <item>12/4</item>
+    </string-array>
+
+    <string name="username_description">BiolaID</string>
+    <string name="password_description">Password</string>
+    <string name="title_web_scrape">Web Scraper</string>
+
+
+</resources>
