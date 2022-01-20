@@ -1,8 +1,9 @@
 # AndroidChapelTracker
-group project chapel tracker android app
+This app provides the upcoming chapels, the chapels attended, and chapel descriptions to Biola students.
 
 
 The final version of the app icon:
+
 ![appIcon2](https://user-images.githubusercontent.com/72853815/150277611-0b95ca10-d1e2-4cea-a7c3-2fe9acad742b.png)
 
 
